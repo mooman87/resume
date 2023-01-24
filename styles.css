@@ -1,0 +1,29 @@
+h1 {
+    padding-left: 30px;
+  }
+  
+  hr {
+    margin-top: 50px;
+  }
+  
+  .contact-info {
+    float: right;
+  }
+  
+  .navbar-text {
+    padding-right: 10px;
+  }
+  
+  .list-group-item {
+    border-color: white;
+    text-align: center;
+  }
+  
+  .summary {
+    text-indent: 30px;
+  }
+  
+  .section-title {
+    text-indent: 20px;
+  }
+  
